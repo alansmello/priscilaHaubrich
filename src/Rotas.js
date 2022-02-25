@@ -4,7 +4,7 @@ import CarouselPromotion from './components/Carousel.js';
 import Criolipolise from './components/Criolipolise';
 import Criofrequencia from './components/Criofrequencia';
 
-export default () =>{
+function Rotas(){
     return(
         <Routes>
             <Route path = "/" element ={<CarouselPromotion/>}/>
@@ -16,4 +16,6 @@ export default () =>{
         </Routes>
     )
 }
+
+export default Rotas;
 
