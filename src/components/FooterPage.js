@@ -14,10 +14,10 @@ return (
   <div className="container p-4 pb-0">
  
     <section className="mb-4">
-    
-      <a href="https://www.facebook.com/priscilanuneshaubrich" target="_blank"><FontAwesomeIcon  icon={faFacebook} size = "3x" style={{ color: 'blue', 'margin-right': '20px' }} /> </a>
+      
+      <a href="https://www.facebook.com/priscilanuneshaubrich" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon  icon={faFacebook} size = "3x" style={{ color: 'blue', 'margin-right': '20px' }} /> </a>
 
-      <a href="http://www.instagram.com/priscilanuneshaubrich" target="_blank"><FontAwesomeIcon  icon={faInstagram} size = "3x" style={{ color: 'purple', 'margin-left': '20px' }} /> </a>
+      <a href="http://www.instagram.com/priscilanuneshaubrich" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon  icon={faInstagram} size = "3x" style={{ color: 'purple', 'margin-left': '20px' }} /> </a>
 
     
     </section>
