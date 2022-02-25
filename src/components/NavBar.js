@@ -3,7 +3,7 @@ import React from 'react';
 import logoFundoTransparente from './img/logoFundoTransparente.png';
 import whatsapp from './img/whatsapp.png'
 import ReactWhatsapp from 'react-whatsapp';
-import {Link} from 'react-router-dom';
+
 
 
 function NavBar(){
