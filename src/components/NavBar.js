@@ -24,7 +24,7 @@ return(
         <NavDropdown.Item href="#action/3.3">Ozonioterapia</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.4">PRF - Plasma Gel</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.5">Luz Intensa Pulsada</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.6">Criofrequência</NavDropdown.Item>
+        <NavDropdown.Item href="/criofrequencia">Criofrequência</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.7">Depilação Definitiva Laser</NavDropdown.Item>
         <NavDropdown.Divider />
         <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>

@@ -58,7 +58,7 @@ function CarouselPromotion(){
       <Card.Text>
       A criofrequência é um tratamento estético que combina radiofrequência com frio.
       </Card.Text>
-      <Button style={{background: 'purple','border-color': 'purple'}}>SAIBA MAIS</Button>
+      <Link to = '/criofrequencia'><Button style={{background: 'purple','border-color': 'purple'}}>SAIBA MAIS</Button></Link>
     </Card.Body>
   </Card>
   <Card style={{ width: '18rem' }}>
