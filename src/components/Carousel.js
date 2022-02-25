@@ -1,4 +1,4 @@
-import { Carousel, Row, Col, Card, CardGroup, Placeholder, Button  } from 'react-bootstrap';
+import { Carousel, Card, Button  } from 'react-bootstrap';
 import React from 'react';
 import crio from './img/crio.jpg';
 import crio3 from './img/crio3.jpeg';
