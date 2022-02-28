@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/priscilaHaubrich/static/css/main.aae00050.css",
+    "main.js": "/priscilaHaubrich/static/js/main.e81136d0.js",
+    "static/js/787.b02cc086.chunk.js": "/priscilaHaubrich/static/js/787.b02cc086.chunk.js",
+    "static/media/criofrequencia2.png": "/priscilaHaubrich/static/media/criofrequencia2.dbee66fdafec52126231.png",
+    "static/media/botox.jpeg": "/priscilaHaubrich/static/media/botox.0579be24feafa25e422a.jpeg",
+    "static/media/crio.jpg": "/priscilaHaubrich/static/media/crio.416643e535df21bfe09a.jpg",
+    "static/media/logoFundoTransparente.png": "/priscilaHaubrich/static/media/logoFundoTransparente.d34822de058ed6a6f8d4.png",
+    "static/media/botox2.jpg": "/priscilaHaubrich/static/media/botox2.554a1d283508da6d233a.jpg",
+    "static/media/crio3.jpeg": "/priscilaHaubrich/static/media/crio3.5b420b940742b9cf53a8.jpeg",
+    "static/media/crio2.jpg": "/priscilaHaubrich/static/media/crio2.aa9a0548b90dc2bce1a2.jpg",
+    "static/media/criofrequencia.jpg": "/priscilaHaubrich/static/media/criofrequencia.dfec1cc50a4172d675e9.jpg",
+    "static/media/whatsapp.png": "/priscilaHaubrich/static/media/whatsapp.27bb34482d5b7add8c62.png",
+    "index.html": "/priscilaHaubrich/index.html",
+    "main.aae00050.css.map": "/priscilaHaubrich/static/css/main.aae00050.css.map",
+    "main.e81136d0.js.map": "/priscilaHaubrich/static/js/main.e81136d0.js.map",
+    "787.b02cc086.chunk.js.map": "/priscilaHaubrich/static/js/787.b02cc086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae00050.css",
+    "static/js/main.e81136d0.js"
+  ]
+}
