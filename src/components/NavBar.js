@@ -12,19 +12,19 @@ return(
 <>
 <Navbar collapseOnSelect expand="lg"  style={{background:'white'}} fixed="top">
   <Container >
-  <Navbar.Brand href="/"><img src={logoFundoTransparente}alt="" style={{'margin-right':'80px'}}/></Navbar.Brand>
+  <Navbar.Brand href="/priscilaHaubrich"><img src={logoFundoTransparente}alt="" style={{'margin-right':'80px'}}/></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto" >
       <Nav.Link href="#features" >Quem Somos</Nav.Link>
       
       <NavDropdown title="Tratamentos" id="collasible-nav-dropdown">
-        <NavDropdown.Item href="/criolipolise">Criolipólise</NavDropdown.Item>
+        <NavDropdown.Item href="/priscilaHaubrich/criolipolise">Criolipólise</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.2">Botox</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.3">Ozonioterapia</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.4">PRF - Plasma Gel</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.5">Luz Intensa Pulsada</NavDropdown.Item>
-        <NavDropdown.Item href="/criofrequencia">Criofrequência</NavDropdown.Item>
+        <NavDropdown.Item href="/priscilaHaubrich/criofrequencia">Criofrequência</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.7">Depilação Definitiva Laser</NavDropdown.Item>
         <NavDropdown.Divider />
         <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
