@@ -8,7 +8,7 @@ import FooterPage from './components/FooterPage';
 function App() {
   return (
     
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter >
      <header>
         <NavBar/>
      </header>

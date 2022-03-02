@@ -6,7 +6,7 @@ import Criofrequencia from './components/Criofrequencia';
 
 function Rotas(){
     return(
-        <Routes>
+        <Routes basename={process.env.PUBLIC_URL}>
             <Route path = "/" element ={<CarouselPromotion/>}/>
             <Route path = "/criolipolise" element ={<Criolipolise/>}/>
             <Route path = "/criofrequencia" element ={<Criofrequencia/>}/>
