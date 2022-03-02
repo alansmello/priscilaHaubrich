@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/priscilaHaubrich/static/css/main.aae00050.css",
-    "main.js": "/priscilaHaubrich/static/js/main.f2d94798.js",
+    "main.js": "/priscilaHaubrich/static/js/main.6d88bc97.js",
     "static/js/787.b02cc086.chunk.js": "/priscilaHaubrich/static/js/787.b02cc086.chunk.js",
     "static/media/criofrequencia2.png": "/priscilaHaubrich/static/media/criofrequencia2.dbee66fdafec52126231.png",
     "static/media/botox.jpeg": "/priscilaHaubrich/static/media/botox.0579be24feafa25e422a.jpeg",
@@ -14,11 +14,11 @@
     "static/media/whatsapp.png": "/priscilaHaubrich/static/media/whatsapp.27bb34482d5b7add8c62.png",
     "index.html": "/priscilaHaubrich/index.html",
     "main.aae00050.css.map": "/priscilaHaubrich/static/css/main.aae00050.css.map",
-    "main.f2d94798.js.map": "/priscilaHaubrich/static/js/main.f2d94798.js.map",
+    "main.6d88bc97.js.map": "/priscilaHaubrich/static/js/main.6d88bc97.js.map",
     "787.b02cc086.chunk.js.map": "/priscilaHaubrich/static/js/787.b02cc086.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aae00050.css",
-    "static/js/main.f2d94798.js"
+    "static/js/main.6d88bc97.js"
   ]
 }
